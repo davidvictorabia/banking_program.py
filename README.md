@@ -36,3 +36,30 @@ Balance after transaction
 🔑 Login System with Security
 
 Users get 3 PIN attempts before being returned to the main menu.
+
+
+
+Concepts Demonstrated:
+
+This project showcases several important Python concepts:
+
+Object-Oriented Programming (Classes & Objects)
+
+Data structures (Dictionaries & Lists)
+
+Input validation
+
+Exception handling
+
+Modular program design
+
+Basic financial transaction logic
+
+
+🛠 Technologies Used:
+
+Python
+
+Command Line Interface (CLI)
+
+Built-in Python libraries such as datetime
