@@ -26,40 +26,40 @@ View the current balance at any time.
 All deposits and withdrawals are recorded with:
 
 Transaction type
-
-Amount
-
-Date and time
-
-Balance after transaction
-
-🔑 Login System with Security
-
-Users get 3 PIN attempts before being returned to the main menu.
+(1) Amount
+(2) Date and time
+(3) Balance after transaction
+(4) Login System with Security
+(5) Users get 3 PIN attempts before being returned to the main menu.
 
 
 
 Concepts Demonstrated:
 
-This project showcases several important Python concepts:
+(1) This project showcases several important Python concepts:
 
-Object-Oriented Programming (Classes & Objects)
+(2) Object-Oriented Programming (Classes & Objects)
 
-Data structures (Dictionaries & Lists)
+(3) Data structures (Dictionaries & Lists)
 
-Input validation
+(4) Input validation
 
-Exception handling
+(5) Exception handling
 
-Modular program design
+(6) Modular program design
 
 Basic financial transaction logic
 
 
 🛠 Technologies Used:
 
-Python
+. Python
 
-Command Line Interface (CLI)
+. Command Line Interface (CLI)
 
-Built-in Python libraries such as datetime
+. Built-in Python libraries such as datetime.
+
+
+
+🎓 Learning Purpose:
+This project was created as a learning exercise for practicing Python programming and financial application logic.
